@@ -5,7 +5,7 @@ description: Geospatial
 
 # Interactive Geospatial Decision Making Tool: Requirements Specification
  
-##Background:
+## Background:
 There is a desire to create a holistic and interactive mapping tool which includes agreed parameters with the aim to support decision-making in health and social care.
  
 ### Problem Statement:
