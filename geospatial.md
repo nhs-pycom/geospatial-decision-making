@@ -1,8 +1,3 @@
----
-title: Interactive Geospatial Decision Making Tool: Requirements Specification
-description: Geospatial 
----
-
 # Interactive Geospatial Decision Making Tool: Requirements Specification
  
 ## Background:
@@ -32,33 +27,17 @@ The solution should look to:
 
 A containerised tool or open library which provides user-interactive features (possible through web app).  The tool would connect to free and open APIs and live NHS data sources to enable up-to-date data flows.  The tool would use the Python libraries OSMnx, networkX, geopandas and folium implementation of travel times calculations and visualisations.  Additional data sheets could be imported as CSVs in order to plot demographics or socio-economic variables alongside services and catchment isochrones.  
 
-
-
-
-
-
-
 ### Non-Functional Requirements (NFR):
 
-NFR
-Specification
-Security
-None - Open Source Distribution
-Responsiveness
-Load mapping views within 3 seconds.
-Update interface and interaction within 2 seconds.
-Run calculations within 60 seconds
-Scalability
-1 user
-Internationalisation
-Python
-Cross-platform
-Windows and MacOS (web application)
-Compliance
-Not Stated
-Accessibility
-Not Stated
-
+| NFR | Specification |
+| ------- | ---------|
+| Security | None - Open Source Distribution |
+| Responsiveness | Load mapping views within 3 seconds. Update interface and interaction within 2 seconds. Run calculations within 60 seconds |
+| Scalability | 1 user | 
+| Internationalisation | Python |
+| Cross-platform | Windows and MacOS (web application) |
+| Compliance | Not Stated |
+| Accessibility | Not Stated |
  
 ### Features and Scenarios:
 
