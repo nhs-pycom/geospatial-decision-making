@@ -15,9 +15,8 @@ NHS Analyst, Ambulance Service Analyst, Policy Analyst
 ### Use-Case 4 - LSOA Density of use of individual service 
 **Description:** For a given catchment area and an identified service (e.g. an A&E) display an LSOA choropleth map of the density of usage.  This is expected to highlight areas of comparative high usage and would be able to track usage over time (by taking snapshots or having a temporal feature) to see the impact of additional services or policy changes on usage after the fact. Incorporated in this use-case is LSOA metrics but also ideally medical service capacity metrics, e.g. GP Capacity. 
 
-### Possible milestones 
-- not necessarily in order 
-- Content to gain interest at nhs pycom talk on 16th.  
+### Possible milestones (not necessarily in order)
+- Content to gain interest at nhs pycom talk on 16th November.  
 - Blog post(s) discussing use-case, features and requirements, technical considerations and choices of libraries/approaches. 
 - Identification of ideal shape formation which supports NHS ontologies (including considering boundaries and aggregation) 
 - Combination of travel networks (walking, driving, bus, underground) 
